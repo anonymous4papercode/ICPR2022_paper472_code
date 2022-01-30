@@ -27,11 +27,11 @@ Temporary Items
 .apdisk
 
 checkpoint
-
-!data/coco/coco_adj.pkl
-!data/coco/coco_glove_word2vec.pkl
-!data/voc/voc_adj.pkl
-!data/voc/voc_glove_word2vec.pkl
+**data/*
+!**data/coco/coco_adj.pkl
+!**data/coco/coco_glove_word2vec.pkl
+!**data/voc/voc_adj.pkl
+!**data/voc/voc_glove_word2vec.pkl
 __pycache__
 *.swp
 *.jpg
