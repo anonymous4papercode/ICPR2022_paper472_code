@@ -27,7 +27,7 @@ Temporary Items
 .apdisk
 
 checkpoint
-data
+
 !data/coco/coco_adj.pkl
 !data/coco/coco_glove_word2vec.pkl
 !data/voc/voc_adj.pkl
