@@ -206,5 +206,5 @@ if __name__ == "__main__":
     root='data/'
     download_coco2014(root+'coco','train')
     download_coco2014(root+'coco','val')
-    download_voc2007(root)
-    # download_coco2014(root,'val')
+    download_voc2007(root+'voc')
+   
