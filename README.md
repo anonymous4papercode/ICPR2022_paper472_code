@@ -21,9 +21,9 @@ Please, install the following packages
 python3 download.py
 ```
 ### Download pretrain models
-checkpoint/coco ([Dropbox](https://www.dropbox.com/s/m77n0tt6s7ewf0a/voc_checkpoint.pth.tar?dl=0))
+checkpoint/voc ([Dropbox](https://www.dropbox.com/s/m77n0tt6s7ewf0a/voc_checkpoint.pth.tar?dl=0))
 
-checkpoint/voc ([Dropbox](https://www.dropbox.com/s/r4dwz5o13tbo0t9/coco_checkpoint.pth.tar?dl=0))
+checkpoint/coco ([Dropbox](https://www.dropbox.com/s/r4dwz5o13tbo0t9/coco_checkpoint.pth.tar?dl=0))
 
 ### Options
 - `lr`: learning rate
